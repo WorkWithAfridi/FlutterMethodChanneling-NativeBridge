@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/khondakarafridi/SDK/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/khondakarafridi/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/khondakarafridi/Developer/FlutterMethodChanneling-NativeBridge/FlutterMethodChanneling-NativeBridge/android/app/.cxx/Debug/4h6q4e5i/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/khondakarafridi/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/khondakarafridi/Developer/FlutterMethodChanneling-NativeBridge/FlutterMethodChanneling-NativeBridge/android/app/.cxx/Debug/4h6q4e5i/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

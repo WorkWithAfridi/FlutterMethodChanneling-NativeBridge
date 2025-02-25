@@ -1,0 +1,1 @@
+/Users/khondakarafridi/Developer/FlutterMethodChanneling-NativeBridge/FlutterMethodChanneling-NativeBridge/build/app/intermediates/cxx/Debug/4h6q4e5i/obj/x86_64
